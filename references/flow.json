@@ -1,0 +1,41 @@
+{
+  "skill": "huxiu-writer",
+  "title": "虎嗅风格批判报道写作流程",
+  "nodes": [
+    {
+      "title": "接选题",
+      "subtitle": "给主题+最想追问的问题+字数",
+      "type": "io"
+    },
+    {
+      "title": "立反论点",
+      "subtitle": "提炼与主流不同的批判判断",
+      "type": "code"
+    },
+    {
+      "title": "全网采集",
+      "subtitle": "财报研报+离职/对手+海外视角",
+      "type": "reuse"
+    },
+    {
+      "title": "选骨架",
+      "subtitle": "五套报道模板选一套套用",
+      "type": "reuse"
+    },
+    {
+      "title": "写正文",
+      "subtitle": "按虎嗅标题公式+骨架成稿",
+      "type": "code"
+    },
+    {
+      "title": "自检闸",
+      "subtitle": "查悬念/反主流/数据/空洞词",
+      "type": "gate"
+    },
+    {
+      "title": "出成稿",
+      "subtitle": "交付批判性深度报道",
+      "type": "io"
+    }
+  ]
+}
